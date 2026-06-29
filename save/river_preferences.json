@@ -1,0 +1,9 @@
+{
+  "season": "spring",
+  "show_mist": true,
+  "show_history": true,
+  "flood_mode": false,
+  "sync_enabled": true,
+  "flow_adjustment": 6.0,
+  "show_panel": true
+}
